@@ -70,7 +70,7 @@ I love turning ideas into real-world projects and continuously improving my skil
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=adan2506b&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" />
+
 
 <br><br>
 
